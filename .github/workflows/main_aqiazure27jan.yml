@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'aqiazure27jan'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F34CC2C3796D4D3E95E4BB685B645F0A }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BD5437B4EEC3495F881FBEA90E69F556 }}
